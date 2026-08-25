@@ -82,7 +82,5 @@ I built this project to improve my SQL skills through hands-on practice and to p
 
 Aspiring Data Analyst
 
-Data Analyst
-
 * GitHub: [Jenil-Aapa](https://github.com/Jenil-Aapa)
 * Portfolio: [jenil-aapa.github.io/portfolio](https://jenil-aapa.github.io/portfolio/)
