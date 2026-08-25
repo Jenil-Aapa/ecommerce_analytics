@@ -51,7 +51,7 @@ Topics include:
 
 ### ecommerce_analytics_question_bank.md
 
-Contains the complete list of 110 questions and 10 additional interview challenges.
+Contains the complete list of [110 questions](ecommerce_analytics_question_bank.md) and 10 additional interview challenges.
 
 I use this file to practice the questions first and then check my solutions in the SQL file.
 
@@ -78,9 +78,9 @@ The project includes questions such as:
 
 I built this project to improve my SQL skills through hands-on practice and to prepare for SQL and Data Analyst interviews.
 
-## Author
-
 **Jenil Aapa**
+
+Aspiring Data Analyst
 
 Data Analyst
 
