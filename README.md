@@ -28,7 +28,7 @@ It includes the tables, relationships, and sample data used for practicing the S
 
 ### 02_ecommerce_analytics_questions_01-110.sql
 
-Contains my SQL solutions for 110 questions.
+Contains my SQL solutions for [110 questions](02_ecommerce_analytics_questions_01-110.sql).
 
 The questions cover different SQL concepts, starting from basic queries and going up to advanced Data Analyst interview questions.
 
